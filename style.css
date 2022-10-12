@@ -1,21 +1,35 @@
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 5px;
-  background-color: #a87f32;
-  color: white;
-  display: flex;
+body {
+  font-family: sans-serif;
 }
-li a {
-  display: block;
-  width: 70px;
+
+#welcome {
+  margin-top: 20px;
+  padding: 0px 20px;
 }
+
 img {
-float: right;
-width: 300px;
+  margin-left: 20px;
+  float: right;
+  max-width: 40%;
+  min-width: 20%;
 }
 h1 {
 text-align: center;
 }
+.container {
+    display: flex;
+    width: 100%;
+    background-color: #DE9C51;
+    color: #FFFFFF;
+}
+.item {
+margin: 10px;
+}
+
+img {
+float: right;
+width: 300px;
+}
+
 
 

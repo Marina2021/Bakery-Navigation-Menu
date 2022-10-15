@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a890fc4-f0fc-4ef4-aa45-dcc1dcae982f" name="Changes" comment="done personally">
+    <list default="true" id="0a890fc4-f0fc-4ef4-aa45-dcc1dcae982f" name="Changes" comment="as per exercise">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
@@ -40,7 +40,8 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/mivanova.ATHERTON/IdeaProjects/Bakery Navigation Menu"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -66,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665595405677</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="as per exercise">
+      <created>1665596286166</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665596286166</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +91,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git check" />
     <MESSAGE value="done personally" />
-    <option name="LAST_COMMIT_MESSAGE" value="done personally" />
+    <MESSAGE value="as per exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="as per exercise" />
   </component>
 </project>
